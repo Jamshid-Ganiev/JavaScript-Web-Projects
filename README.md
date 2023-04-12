@@ -12,3 +12,4 @@ JavaScript web development projects : All in one repository.
 > Play a drum with your keyboard or mouse, and make beautiful sounds
 ![Drum Kit](https://user-images.githubusercontent.com/84252587/226666616-32faf476-9567-4aa9-836d-66cd3898db5e.png)
 
+# Project 3
