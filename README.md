@@ -23,13 +23,15 @@ npm install -g nodemon
 nodemon file_name.js
 ```
 > every time you add changes, you might see the following in the terminal:
-image.png
+![Screenshot 2023-04-12 231313](https://user-images.githubusercontent.com/84252587/231488661-16c10cd7-2d74-40a1-aa4b-2a277dce3e05.png)
+
 
 > body-parser for changing the posted data to Json, so that we can access the posted data via body.{key}
 ```
 npm install body-parser
 ```
 ## BMI Calculator Project
-image.png
+![image](https://user-images.githubusercontent.com/84252587/231488379-b207b640-bf56-4771-a999-47d836c86959.png)
+
 
 
