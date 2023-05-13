@@ -33,7 +33,7 @@ npm install body-parser
 ## BMI Calculator Project
 ![image](https://user-images.githubusercontent.com/84252587/231488379-b207b640-bf56-4771-a999-47d836c86959.png)
 
-## Oepn Weather Project using OpenWeaather API.
+## Current Weather Project using OpenWeaather API.
 ![image](https://user-images.githubusercontent.com/84252587/232314090-885c9189-706f-40cc-a115-0e17d8883922.png)
 
 
