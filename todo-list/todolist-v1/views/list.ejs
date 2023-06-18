@@ -8,6 +8,28 @@
 </head>
 <!-- Embedded JavaScript Server -->
 <body>
-    <h1>It's a <%= kindOfDay %> !</h1>
+    <!-- <% %> (Scriplet tag)
+    <% if (kindOfDay === "Saturday" || kindOfDay === "Sunday") { %>
+        <h1 style="color: purple">It's <%= kindOfDay %> List</h1>
+    <% } else { %>
+        <h1 style="color: blue">It's <%= kindOfDay %> List</h1>
+    <% } %> -->
+    <h1><%= kindOfDay %></h1>
+
+    <ul>
+        <li>Send an email</li>
+        <li>Cook an egg</li>
+
+        <% for (var i=0; i<newListItems.length; i++) { %>
+            <li> <%= newListItems[i] %> </li>
+        <% } %>
+    </ul>
+
+    <form action="/" method="POST">
+        <label for="">Activity Form:</label>
+        <input type="text" placeholder="Buy Food" name="newItem">
+        <button type="submit">Add</button>
+    </form>
+    
 </body>
 </html>
