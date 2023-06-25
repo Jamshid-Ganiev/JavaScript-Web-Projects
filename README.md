@@ -36,6 +36,10 @@ npm install body-parser
 ## Current Weather Project using OpenWeaather API.
 ![image](https://user-images.githubusercontent.com/84252587/232314090-885c9189-706f-40cc-a115-0e17d8883922.png)
 
+## Todo app v2
+![image](https://github.com/Jamshid-Ganiev/JavaScript-Web-Projects/assets/84252587/ed96cfde-6f4e-4458-b97d-35708b6d3c12)
+
+
 
 
 
